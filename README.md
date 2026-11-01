@@ -86,8 +86,10 @@ Sugestão de valor para investimento baseada no salário;
 Distribuição automática conforme perfil do investidor;
 Organização visual da calculadora.
 
-Evidências
+Evidências:
+
 <img width="254" height="490" alt="Perfil_conservador" src="https://github.com/user-attachments/assets/1c4eaa91-3361-4ec9-a0da-4e1b9f0ceb1e" />
+
 <img width="255" height="484" alt="Perfil_moderado" src="https://github.com/user-attachments/assets/595df077-1731-4a23-8149-ee4d1c823180" />
 
 
